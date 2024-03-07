@@ -12,3 +12,12 @@ body{
 
 #initial{border-style: initial;}
 #ridge{border-style: ridge;}
+/* css border radius */
+#border-radius{ width: 400px;
+     border: 2px solid gray;
+      border-radius: 50px 1px 50px 1px;}
+/* Using css display       */
+#none{display: none;}
+#block{display: block;}
+#inline-block{display: inline-block;}
+#inline{display: inline;}
