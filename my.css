@@ -3,3 +3,22 @@ body{
     background-repeat: no-repeat;
     background-image:url(morning.jpeg) ;
 }
+/* practice about border */
+#dotted{
+    border-style:dotted;
+}
+#dashed{
+    border-style: dashed;
+}
+#groobe{
+    border-style: groove;
+}
+#double{
+    border-style: double;
+}
+#inherit{
+    border-style: inherit;
+}
+#initial{
+    border-style: initial;
+}
