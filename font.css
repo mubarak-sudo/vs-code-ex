@@ -1,0 +1,9 @@
+.font{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
