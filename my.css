@@ -21,3 +21,16 @@ body{
 #block{display: block;}
 #inline-block{display: inline-block;}
 #inline{display: inline;}
+ 
+/* adding style to the button */
+.btn{
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 20px;
+    color: red;
+
+}
+.btn:hover{
+    background-color: aquamarine;
+    color: black;
+}
