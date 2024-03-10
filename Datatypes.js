@@ -25,6 +25,7 @@ let isLoggedIn = "hitesh";
 
 let boolearIsLoggedIn = Boolean(isLoggedIn);
 //console.log(boolearIsLoggedIn);
+Your using something worng
 
 // "" => false
 // "hitesh" => true
